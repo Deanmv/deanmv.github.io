@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  The Trip
-date:   2015-01-22 15:46:32
+title:  The Plan
+date:   2015-01-22 09:00:00
 ---
 ## Day 1
 Las Vegas - The View Hotel

@@ -2,21 +2,20 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    padding:20px 0;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
+    font-size: 60px;
+    line-height: 85px;
     margin-bottom: 0;
-    float: left;
-
+    margin: 0 auto;
+    font-family: 'Great Vibes', cursive;
     &:hover {
         text-decoration: none;
     }
@@ -177,7 +176,6 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
         text-align:center;
     }
 

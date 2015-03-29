@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<hr>
+<hr class="wideHr">
 <div class="postsList">
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -14,18 +14,4 @@ layout: default
       <hr>
     {% endfor %}
   </ul>
-</div>
-<div class="stats">
-	<div class="statDiv">
-		<i class="fa fa-2x fa-car"></i><br />
-		~ 3200 Miles
-	</div>
-	<div class="statDiv">
-		<i class="fa fa-2x fa-clock-o"></i><br />
-		~ 50 Hours Driving
-	</div>
-	<div class="statDiv">
-		<i class="fa fa-2x fa-map-marker"></i><br />
-		13 States
-	</div>
 </div>

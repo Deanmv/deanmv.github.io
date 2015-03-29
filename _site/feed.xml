@@ -1,16 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dean Vizer</title>
+    <title>The Trip</title>
     <description></description>
     <link>http://deanmv.github.io/</link>
     <atom:link href="http://deanmv.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Mar 2015 20:15:51 +0100</pubDate>
-    <lastBuildDate>Sun, 29 Mar 2015 20:15:51 +0100</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2015 21:17:44 +0100</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2015 21:17:44 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>The Trip</title>
+        <title>The Trip in Numbers</title>
+        <description>&lt;div class=&quot;numberSection&quot;&gt;
+	&lt;div&gt;
+		&lt;i class=&quot;fa fa-2x fa-plane&quot;&gt;&lt;/i&gt;&lt;br /&gt;
+		&lt;h2&gt;LGW to LAS&lt;/h2&gt;
+		&lt;p&gt;5,321 Miles&lt;br /&gt;
+		10 hours and 30 minutes&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;h2&gt;JFK to LGW&lt;/h2&gt;
+		&lt;p&gt;3,464 Miles&lt;br /&gt;
+		7 hours and 26 minutes&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;numberSection&quot;&gt;
+	&lt;i class=&quot;fa fa-2x fa-car&quot;&gt;&lt;/i&gt;
+	&lt;p&gt;3,361 Miles&lt;br /&gt;
+	60 hours and 14 minutes&lt;br /&gt;
+	~$700 in fuel&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;numberSection&quot;&gt;
+	&lt;i class=&quot;fa fa-2x fa-map-marker&quot;&gt;&lt;/i&gt;
+	&lt;p&gt;13 States&lt;br /&gt;
+	10 Cities&lt;br /&gt;
+	4 Major Landmarks&lt;/p&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sun, 29 Mar 2015 10:00:00 +0100</pubDate>
+        <link>http://deanmv.github.io/2015/03/29/The-Trip-In-Numbers.html</link>
+        <guid isPermaLink="true">http://deanmv.github.io/2015/03/29/The-Trip-In-Numbers.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Plan</title>
         <description>&lt;h2 id=&quot;day-1&quot;&gt;Day 1&lt;/h2&gt;
 &lt;p&gt;Las Vegas - The View Hotel&lt;/p&gt;
 
@@ -76,9 +110,9 @@
 
 &lt;p&gt;&lt;img src=&quot;http://media-cdn.tripadvisor.com/media/photo-s/03/9b/2d/f2/new-york-city.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 22 Jan 2015 15:46:32 +0000</pubDate>
-        <link>http://deanmv.github.io/2015/01/22/The-Trip.html</link>
-        <guid isPermaLink="true">http://deanmv.github.io/2015/01/22/The-Trip.html</guid>
+        <pubDate>Thu, 22 Jan 2015 09:00:00 +0000</pubDate>
+        <link>http://deanmv.github.io/2015/01/22/The-Plan.html</link>
+        <guid isPermaLink="true">http://deanmv.github.io/2015/01/22/The-Plan.html</guid>
         
         
       </item>
