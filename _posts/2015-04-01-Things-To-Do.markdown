@@ -3,7 +3,6 @@ layout: post
 title:  Things To Do
 date:   2015-04-01 09:00:00
 ---
-# Things To Do
  
 ## Las Vegas
 [Eiffel Tower Restaurant](https://www.caesars.com/paris-las-vegas/restaurants/eiffel-tower-restaurant)
