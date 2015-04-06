@@ -38,5 +38,5 @@ date:   2015-04-01 09:00:00
 [Philadelphia’s Magic Gardens](http://www.phillymagicgardens.org/)
 
 ## New York
-[Rockefeller Center](https://www.rockaefellercenter.com)<br />
+[Rockefeller Center](https://www.rockefellercenter.com)<br />
 [New York Public Library](http://www.nypl.org/)
