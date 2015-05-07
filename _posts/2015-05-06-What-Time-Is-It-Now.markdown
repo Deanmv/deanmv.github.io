@@ -6,7 +6,7 @@ date:   2015-05-06 09:00:00
 
 Breakfast with a view.
 
-![](/images/breakfastView.jpg)
+![](/images/breakfastView.JPG)
 
 Driving to The View Hotel lost us an hour due to them not in keeping with DST. We left at 8:30am and by 8:45am we gained the hour back which totally threw us, now it was 7:45am! Who the hell are we leaving so early?
 
