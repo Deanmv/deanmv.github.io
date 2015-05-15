@@ -17,7 +17,7 @@ We’ve walked a crazy amount today, so much so I needed a nap when we got back 
 I’ve enjoyed Washington DC, not too crowded and much more of a relaxing city than NYC but I’ve found it a little too wealthy. We wanted to stop off for a drink on our way back from the memorials but everywhere seemed far too posh and expensive! Off to Philadelphia tomorrow morning, looking forward to seeing everything!
 
 Todays Walk:<br />
-9.8 Miles<br />
-3 Hours 45 Minutes
+10.1 Miles<br />
+4 Hours 8 Minutes
 
 The Vizers xx
