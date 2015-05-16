@@ -29,7 +29,7 @@ From the fountain we walked what seemed like 10 miles to the Rocky steps... to f
 Back to the hotel to freshen up before the game tonight. I am SO keen for hot dogs and nachos :D
 
 Todays Walking:<br />
-135.1 Miles<br />
-3 Hours 10 Minutes and 24 Seconds
+6.2 Miles<br />
+2 Hours 36 Minutes
 
 The Vizers xx
