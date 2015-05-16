@@ -10,7 +10,7 @@ Today we had a tiny drive (3 hours 10 mins) to Philadelphia! So excited to be he
 
 We’re also planning on visiting the Liberty Bell as well as the Independence Hall and lots more! Annoyingly, a few things we’d planned to see don’t open for the year until next week! Never mind.
 
-![](/images/view.jpg)
+![](/images/View.jpg)
 
 We’ve checked into an amazing hotel with a river view. On the drive over I searched for nearby places to eat and came across the Moshulu restaurant. It’s just a 5 minute walk away and is a restaurant on a Ship!
 
